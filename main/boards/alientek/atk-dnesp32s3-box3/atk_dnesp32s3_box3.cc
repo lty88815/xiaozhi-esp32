@@ -8,6 +8,7 @@
 #include "button.h"
 #include "config.h"
 #include "led/single_led.h"
+#include "boards/common/esp32_camera.h"
 
 #include "i2c_device.h"
 #include "esp_video.h"
